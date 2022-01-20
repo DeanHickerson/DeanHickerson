@@ -2,11 +2,11 @@
 
 I work for Navy Federal. We have an internal GitHub server where the majoirity of my projects end up. So unfortunately you wont see as much here. I am trying to do more on my free time to share my open source journey on GitHub so hopefully more repos will show up here soon.
 
-<details>
+<!-- <details>
   <summary>Dean's Github Stats</summary>
   
   [![Dean's github stats](https://github-readme-stats.vercel.app/api?username=deanhickerson)](https://github.com/deanhickerson/github-readme-stats)
-</details>
+</details> -->
 
 
 
